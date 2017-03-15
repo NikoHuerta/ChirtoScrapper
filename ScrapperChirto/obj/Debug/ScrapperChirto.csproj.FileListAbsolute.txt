@@ -1,0 +1,5 @@
+c:\users\dynamics\documents\visual studio 2013\Projects\ScrapperChirto\ScrapperChirto\bin\Debug\ScrapperChirto.exe
+c:\users\dynamics\documents\visual studio 2013\Projects\ScrapperChirto\ScrapperChirto\bin\Debug\ScrapperChirto.pdb
+c:\users\dynamics\documents\visual studio 2013\Projects\ScrapperChirto\ScrapperChirto\obj\Debug\ScrapperChirto.csprojResolveAssemblyReference.cache
+c:\users\dynamics\documents\visual studio 2013\Projects\ScrapperChirto\ScrapperChirto\obj\Debug\ScrapperChirto.exe
+c:\users\dynamics\documents\visual studio 2013\Projects\ScrapperChirto\ScrapperChirto\obj\Debug\ScrapperChirto.pdb
